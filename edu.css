@@ -1,0 +1,48 @@
+body{
+	background-color:#EEE8AA;
+}
+.flex-cont{
+	background-color:maroon;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	position:sticky;
+	top:0;
+	
+}
+.sel{
+	
+	margin:10px 0px 10px 0px;
+	padding:12px 24px 12px 24px;
+	background-color:#CD853F;
+	text-align:center;
+	border-radius:20px;
+	transition:1s;
+}
+.sel:hover{
+	background-color:#F4A460;
+}
+.btn{
+	color:white;
+	text-decoration:none;
+}
+.btn:hover{
+	color:black;
+}
+.hid{
+	color:#2F4F4F;
+	text-align:center;
+	padding:10px;
+	font-size:7vw;
+}
+.heading{
+	color:#8B4513;
+	font-size:5.5vw;
+}
+.description{
+	margin:10px;
+	padding-left:15px;
+	font-size:3.8vw;
+	line-height:6vw;
+}

@@ -1,0 +1,38 @@
+body{
+	background-color:black;
+}
+.mid{
+	width:90%;
+	justify-content:center;
+}
+.md{
+	width:80%;
+	justify-content:center;
+	text-align:center:
+}
+.bc{
+	padding: 5px 10px 5px 10px;
+	background-color:white;
+	text-decoration:none;
+	border-radius:10px;
+	font-size:20px;
+	position:fixed;
+	color:black;
+}
+.upp{
+	padding :10px 10px 10px 10px;
+}
+.pre{
+	float:left;
+}
+.next{
+	float:right;
+}
+.boc{
+	padding: 5px 10px 5px 10px;
+	background-color:white;
+	text-decoration:none;
+	border-radius:10px;
+	font-size:20px;
+	color:black;
+}

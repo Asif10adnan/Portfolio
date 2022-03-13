@@ -1,0 +1,75 @@
+body{
+	background-color:#F5F5DC;
+}
+.flex-cont{
+	background-color:#DDA0DD;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	position:sticky;
+	top:0;
+	border:3.5px solid #800080;
+}
+.sel{
+	margin:10px 0px 10px 0px;
+	padding:12px 24px 12px 24px;
+	background-color:#800080;
+	text-align:center;
+	border-radius:20px;
+	transition:1s;
+}
+.sel:hover,.btn:hover{
+	background-color:#C71585;
+	color:black;
+}
+.btn{
+	color:white;
+	text-decoration:none;
+}
+.h{
+	font-size:6vw;
+	padding:20px 0px 0px 0px;
+	color:#C71585;
+	border-bottom:0.5vw solid #C71585;
+}
+.option{
+	text-align:center;
+	font-size:5vw;
+	color:#8A2BE2;
+	padding: 20px 20px 20px 20px;
+	text-decoration:underline;
+}
+.des{
+	text-align:center;
+	font-size:3.8vw;
+	padding-bottom:15px;
+}
+.but{
+	padding: 10px 10px 10px 10px;
+	background-color:#00008B;
+	color:white;
+	text-decoration:none;
+	font-size:3.8vw;
+	border-radius:10px;
+}
+.dd{
+	text-align:center;
+	padding-bottom:20px;
+}
+.bu{
+	padding: 10px 10px 10px 10px;
+	color:white;
+	text-decoration:none;
+	font-size:3.8vw;
+	border-radius:10px;
+	background-image:linear-gradient(to right top, yellow, red, purple, blue);
+}
+.b{
+	padding:10px 10px 10px 10px;
+	color:white;
+	text-decoration:none;
+	font-size:3.8vw;
+	border-radius:10px;
+	background-color:red;
+}
