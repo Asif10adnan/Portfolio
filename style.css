@@ -25,6 +25,7 @@ body{
 .btn{
 	color:white;
 	text-decoration:none;
+	font-size:20px;
 }
 .btn:hover{
 	color:#00008B;
