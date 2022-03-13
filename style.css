@@ -16,7 +16,7 @@ body{
 	padding:12px 24px 12px 24px;
 	background-color:#00008B;
 	text-align:center;
-	border-radius:20px;
+	border-radius:25px;
 	transition:1s;
 }
 .sel:hover{
