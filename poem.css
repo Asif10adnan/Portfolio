@@ -46,13 +46,11 @@ body{
 .mid{
 	text-align:center;
 	padding-top:30px;
-	float:left;
 	width:50%;
 }
 .mid2{
 	text-align:center;
 	padding-top:30px;
-	float:left;
 	width:50%;
 }
 .hd{
@@ -63,4 +61,8 @@ body{
 }
 .f{
 	padding-bottom:30px;
+}
+.m{
+	display:flex;
+	flex-direction:row;
 }
